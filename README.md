@@ -10,7 +10,7 @@ I have taken a object oriented approach as I felt there could be a synergy betwe
 
 ## Installation
 ```
-git clone git@github.com:AmreshVenugopal/tic_tac_toe.git
+git clone git@github.com:neptotech/tic_tac_toe.git
 pip install numpy
 ```
 That's the only dependency you would need!
